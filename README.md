@@ -18,31 +18,31 @@
 
 Raw unedited outputs.
 
-https://github.com/user-attachments/assets/c39db68a-4684-4045-be5a-636ca106a520
+https://github.com/user-attachments/assets/81bae046-38ae-4d5a-8eda-e7dcebfabae5
 
 > 🟦⬜⬜⬜⬜ **Very Easy:** motion blur
 
 ---
 
-https://github.com/user-attachments/assets/0588e20e-cc41-4b0e-9632-a0a898627161
+https://github.com/user-attachments/assets/17efceef-0e77-4679-9d0b-5882346972cd
 
 > 🟩🟩⬜⬜⬜ **Easy:** low contrast, outfit blending
 
 ---
 
-https://github.com/user-attachments/assets/a540cbdd-04a8-45f4-b10a-a6a6a633a401
+https://github.com/user-attachments/assets/b36ba78d-ed49-4059-a7e2-3696ab48151f
 
 > 🟨🟨🟨⬜⬜ **Medium:** fast motion, subject and objects leaving frame
 
 ---
 
-https://github.com/user-attachments/assets/1ba4366d-f90e-44d4-a3d7-7127aa782247
+https://github.com/user-attachments/assets/bcb662c7-8e7d-43ff-a9f6-048234e824cd
 
 > 🟧🟧🟧🟧⬜ **Hard:** very low contrast, outfit blending, fine hair
 
 ---
 
-https://github.com/user-attachments/assets/849dca05-af3a-45fc-84c4-0d0c6dd65462
+https://github.com/user-attachments/assets/9341d4a6-b763-48a4-ab88-275ce53b240b
 
 > 🟥🟥🟥🟥🟥 **Very Hard:** low contrast, overlapping subjects
 
